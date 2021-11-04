@@ -1,4 +1,4 @@
-# Analyzing Adverse Health Outcomes using Childhood Social Networks
+# Longitudinal Analysis of Social Marginalization on Overweight Children
 ## Using Data from The National Longitudinal Study of Adolescent to Adult Health
 
 ### Researchers:
