@@ -5,4 +5,13 @@
 Nathaniel Glasser, Jacob Jameson, Harold Pollack
 
 
-### Abstract
+### Abstract:
+
+
+### Data:
+
+Publically available data was obtained online from [Odum Institute at UNC](https://addhealth.cpc.unc.edu)
+
+### Research Question:
+
+
