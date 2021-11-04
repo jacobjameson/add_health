@@ -3,7 +3,9 @@
 
 ### Researchers:
 Nathaniel Glasser, M.D.,
+
 Jacob Jameson, M.S. Candidate,
+
 Harold Pollack, Ph.D.
 
 
